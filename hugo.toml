@@ -10,7 +10,8 @@ theme = "relearn"
 home = [ "HTML", "RSS", "SEARCH"]
 
 [params]
-disableLandingPageButton = true
+disableLandingPageButton = false
+themeVariant = "blue"
 
 [[menu.shortcuts]]
 name="<i class='fab fa-php'></i>   Lenguaje php"
@@ -32,6 +33,8 @@ weight=3
 
 [Languages]
     [Languages.es]
+    landingPageURL = "/hugo/markdown"
+    landingPageName = "<i class='fas fa-university'></i> Home"
         title = "Web sobre Markdown"
         weight = 1
         languageName = "Español"
