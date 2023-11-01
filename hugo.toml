@@ -1,9 +1,9 @@
-baseURL = 'http://marcosgimgut.github.io/hugo_practica/'
+baseURL = 'https://marcosgimgut.github.io/hugo'
 languageCode = 'en-us'
 defaultContentLanguage = 'es'
 title = 'Mi sitio desarrollado con HUGO'
 # Change the default theme to be use when building the site with Hugo
-theme = "hugo-theme-relearn"
+theme = "relearn"
 
 # For search functionality
 [outputs]

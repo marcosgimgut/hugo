@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web sobre Markdown</title>
-    <link>http://marcosgimgut.github.io/hugo_practica/index.html</link>
+    <link>https://marcosgimgut.github.io/hugo/index.html</link>
     <description>Recent content on Web sobre Markdown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 26 Oct 2023 20:03:38 +0200</lastBuildDate>
-    <atom:link href="http://marcosgimgut.github.io/hugo_practica/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marcosgimgut.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown</title>
-      <link>http://marcosgimgut.github.io/hugo_practica/markdown/index.html</link>
+      <link>https://marcosgimgut.github.io/hugo/markdown/index.html</link>
       <pubDate>Thu, 26 Oct 2023 20:03:38 +0200</pubDate>
-      <guid>http://marcosgimgut.github.io/hugo_practica/markdown/index.html</guid>
+      <guid>https://marcosgimgut.github.io/hugo/markdown/index.html</guid>
       <description>Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano.
 Markdown convierte el texto marcado en documentos XHTML utilizando html2text creado por Aaron Swartz. Markdown se distribuye bajo licencia BSD.
 Sitio web de Markdown en español Descargas markdown-cheatsheet.</description>

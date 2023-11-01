@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web about Markdown</title>
-    <link>http://marcosgimgut.github.io/hugo_practica/en/index.html</link>
+    <link>https://marcosgimgut.github.io/hugo/en/index.html</link>
     <description>Recent content on Web about Markdown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://marcosgimgut.github.io/hugo_practica/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marcosgimgut.github.io/hugo/en/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown on Web sobre Markdown</title>
-    <link>http://marcosgimgut.github.io/hugo_practica/markdown/index.html</link>
+    <link>https://marcosgimgut.github.io/hugo/markdown/index.html</link>
     <description>Recent content in Markdown on Web sobre Markdown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 26 Oct 2023 20:03:38 +0200</lastBuildDate>
-    <atom:link href="http://marcosgimgut.github.io/hugo_practica/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marcosgimgut.github.io/hugo/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elementos de bloque</title>
-      <link>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-bloque/index.html</link>
+      <link>https://marcosgimgut.github.io/hugo/markdown/elementos-bloque/index.html</link>
       <pubDate>Thu, 26 Oct 2023 20:03:38 +0200</pubDate>
-      <guid>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-bloque/index.html</guid>
+      <guid>https://marcosgimgut.github.io/hugo/markdown/elementos-bloque/index.html</guid>
       <description>Los elementos de bloque en markdown son aquellos que ocupan una línea completa, o varias, y que por tanto no pueden ser incluidos dentro de un párrafo. Los elementos de bloque más comunes son los siguientes:
 Encabezados Párrafos y saltos de línea Listas Citas Códigos de bloque Reglas horizontales Estos elementos de bloque pueden ser combinados entre sí, por ejemplo, una lista dentro de una cita, o un código de bloque dentro de una lista.</description>
     </item>
     <item>
       <title>Elementos de línea</title>
-      <link>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-linea/index.html</link>
+      <link>https://marcosgimgut.github.io/hugo/markdown/elementos-linea/index.html</link>
       <pubDate>Thu, 26 Oct 2023 20:03:38 +0200</pubDate>
-      <guid>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-linea/index.html</guid>
+      <guid>https://marcosgimgut.github.io/hugo/markdown/elementos-linea/index.html</guid>
       <description>Los elementos de línea son aquellos que se pueden incluir dentro de un párrafo. Los más comunes son los siguientes:
 Énfasis Código Links o Enlaces Imágenes Estos elementos de línea pueden ser combinados entre sí, por ejemplo, un link dentro de un énfasis, o una imagen dentro de un link. Y se pueden combinar con elementos de bloque, por ejemplo, un link dentro de una lista.</description>
     </item>

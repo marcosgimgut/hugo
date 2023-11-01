@@ -5,7 +5,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Código",
-    "uri": "/hugo_practica/markdown/elementos-linea/codigo/index.html"
+    "uri": "/hugo/markdown/elementos-linea/codigo/index.html"
   },
   {
     "breadcrumb": "Web sobre Markdown \u003e Markdown",
@@ -13,7 +13,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Elementos de bloque",
-    "uri": "/hugo_practica/markdown/elementos-bloque/index.html"
+    "uri": "/hugo/markdown/elementos-bloque/index.html"
   },
   {
     "breadcrumb": "Web sobre Markdown \u003e Markdown",
@@ -21,7 +21,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Elementos de línea",
-    "uri": "/hugo_practica/markdown/elementos-linea/index.html"
+    "uri": "/hugo/markdown/elementos-linea/index.html"
   },
   {
     "breadcrumb": "Web sobre Markdown \u003e Markdown \u003e Elementos de línea",
@@ -29,7 +29,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Énfasis",
-    "uri": "/hugo_practica/markdown/elementos-linea/enfasis/index.html"
+    "uri": "/hugo/markdown/elementos-linea/enfasis/index.html"
   },
   {
     "breadcrumb": "Web sobre Markdown \u003e Markdown \u003e Elementos de línea",
@@ -37,7 +37,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Imágenes",
-    "uri": "/hugo_practica/markdown/elementos-linea/imagenes/index.html"
+    "uri": "/hugo/markdown/elementos-linea/imagenes/index.html"
   },
   {
     "breadcrumb": "Web sobre Markdown \u003e Markdown \u003e Elementos de línea",
@@ -45,7 +45,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Links o enlaces",
-    "uri": "/hugo_practica/markdown/elementos-linea/enlaces/index.html"
+    "uri": "/hugo/markdown/elementos-linea/enlaces/index.html"
   },
   {
     "breadcrumb": "Web sobre Markdown",
@@ -53,7 +53,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Markdown",
-    "uri": "/hugo_practica/markdown/index.html"
+    "uri": "/hugo/markdown/index.html"
   },
   {
     "breadcrumb": "",
@@ -61,7 +61,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Web sobre Markdown",
-    "uri": "/hugo_practica/index.html"
+    "uri": "/hugo/index.html"
   },
   {
     "breadcrumb": "Web sobre Markdown \u003e Markdown \u003e Elementos de bloque",
@@ -69,7 +69,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Citas",
-    "uri": "/hugo_practica/markdown/elementos-bloque/citas/index.html"
+    "uri": "/hugo/markdown/elementos-bloque/citas/index.html"
   },
   {
     "breadcrumb": "Web sobre Markdown \u003e Markdown \u003e Elementos de bloque",
@@ -77,7 +77,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Códigos de bloque",
-    "uri": "/hugo_practica/markdown/elementos-bloque/codigos-bloque/index.html"
+    "uri": "/hugo/markdown/elementos-bloque/codigos-bloque/index.html"
   },
   {
     "breadcrumb": "Web sobre Markdown \u003e Markdown \u003e Elementos de bloque",
@@ -85,7 +85,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Encabezados",
-    "uri": "/hugo_practica/markdown/elementos-bloque/encabezados/index.html"
+    "uri": "/hugo/markdown/elementos-bloque/encabezados/index.html"
   },
   {
     "breadcrumb": "Web sobre Markdown \u003e Markdown \u003e Elementos de bloque",
@@ -93,7 +93,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Listas",
-    "uri": "/hugo_practica/markdown/elementos-bloque/listas/index.html"
+    "uri": "/hugo/markdown/elementos-bloque/listas/index.html"
   },
   {
     "breadcrumb": "Web sobre Markdown \u003e Markdown \u003e Elementos de bloque",
@@ -101,7 +101,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Parrafos y saltos de línea",
-    "uri": "/hugo_practica/markdown/elementos-bloque/parrafos/index.html"
+    "uri": "/hugo/markdown/elementos-bloque/parrafos/index.html"
   },
   {
     "breadcrumb": "Web sobre Markdown \u003e Markdown \u003e Elementos de bloque",
@@ -109,7 +109,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Reglas horizontales",
-    "uri": "/hugo_practica/markdown/elementos-bloque/reglas-horizontales/index.html"
+    "uri": "/hugo/markdown/elementos-bloque/reglas-horizontales/index.html"
   },
   {
     "breadcrumb": "Web sobre Markdown",
@@ -117,7 +117,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Categorías",
-    "uri": "/hugo_practica/categories/index.html"
+    "uri": "/hugo/categories/index.html"
   },
   {
     "breadcrumb": "Web sobre Markdown",
@@ -125,6 +125,6 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Etiquetas",
-    "uri": "/hugo_practica/tags/index.html"
+    "uri": "/hugo/tags/index.html"
   }
 ]

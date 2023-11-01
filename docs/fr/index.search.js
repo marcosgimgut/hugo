@@ -5,7 +5,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Catégories",
-    "uri": "/hugo_practica/fr/categories/index.html"
+    "uri": "/hugo/fr/categories/index.html"
   },
   {
     "breadcrumb": "Web sur Markdown",
@@ -13,7 +13,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Mots-clés",
-    "uri": "/hugo_practica/fr/tags/index.html"
+    "uri": "/hugo/fr/tags/index.html"
   },
   {
     "breadcrumb": "",
@@ -21,6 +21,6 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Web sur Markdown",
-    "uri": "/hugo_practica/fr/index.html"
+    "uri": "/hugo/fr/index.html"
   }
 ]

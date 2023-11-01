@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://marcosgimgut.github.io/hugo_practica/en/categories/index.html</loc>
-    <xhtml:link rel="alternate" hreflang="x-default" href="http://marcosgimgut.github.io/hugo_practica/categories/index.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="http://marcosgimgut.github.io/hugo_practica/categories/index.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="http://marcosgimgut.github.io/hugo_practica/en/categories/index.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="http://marcosgimgut.github.io/hugo_practica/fr/categories/index.html" />
+    <loc>https://marcosgimgut.github.io/hugo/en/categories/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marcosgimgut.github.io/hugo/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://marcosgimgut.github.io/hugo/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://marcosgimgut.github.io/hugo/en/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://marcosgimgut.github.io/hugo/fr/categories/index.html" />
   </url>
   <url>
-    <loc>http://marcosgimgut.github.io/hugo_practica/en/tags/index.html</loc>
-    <xhtml:link rel="alternate" hreflang="x-default" href="http://marcosgimgut.github.io/hugo_practica/tags/index.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="http://marcosgimgut.github.io/hugo_practica/tags/index.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="http://marcosgimgut.github.io/hugo_practica/en/tags/index.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="http://marcosgimgut.github.io/hugo_practica/fr/tags/index.html" />
+    <loc>https://marcosgimgut.github.io/hugo/en/tags/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marcosgimgut.github.io/hugo/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://marcosgimgut.github.io/hugo/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://marcosgimgut.github.io/hugo/en/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://marcosgimgut.github.io/hugo/fr/tags/index.html" />
   </url>
   <url>
-    <loc>http://marcosgimgut.github.io/hugo_practica/en/index.html</loc>
-    <xhtml:link rel="alternate" hreflang="x-default" href="http://marcosgimgut.github.io/hugo_practica/index.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="http://marcosgimgut.github.io/hugo_practica/index.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="http://marcosgimgut.github.io/hugo_practica/en/index.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="http://marcosgimgut.github.io/hugo_practica/fr/index.html" />
+    <loc>https://marcosgimgut.github.io/hugo/en/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marcosgimgut.github.io/hugo/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://marcosgimgut.github.io/hugo/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://marcosgimgut.github.io/hugo/en/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://marcosgimgut.github.io/hugo/fr/index.html" />
   </url>
 </urlset>
