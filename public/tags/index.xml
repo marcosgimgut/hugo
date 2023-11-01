@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Web sobre Markdown</title>
+    <link>http://marcosgimgut.github.io/hugo_practica/tags/index.html</link>
+    <description>Recent content in Tags on Web sobre Markdown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <atom:link href="http://marcosgimgut.github.io/hugo_practica/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

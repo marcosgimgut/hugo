@@ -1,0 +1,45 @@
+baseURL = 'http://marcosgimgut.github.io/hugo_practica/'
+languageCode = 'en-us'
+defaultContentLanguage = 'es'
+title = 'Mi sitio desarrollado con HUGO'
+# Change the default theme to be use when building the site with Hugo
+theme = "hugo-theme-relearn"
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "SEARCH"]
+
+[params]
+disableLandingPageButton = true
+
+[[menu.shortcuts]]
+name="<i class='fab fa-php'></i>   Lenguaje php"
+identified=""
+url="https://php.net"
+weight=1
+
+[[menu.shortcuts]]
+name="<i class='fab fa-wikipedia-w'></i>   Wiki del curso"
+identified=""
+url="https://es.wikieducator.org/Usuario:ManuelRomero/ProgramacionWeb/Contenido"
+weight=2
+
+[[menu.shortcuts]]
+name="<i class='far fa-code-branch'></i>   Git"
+identified=""
+url="https://github.com"
+weight=3
+
+[Languages]
+    [Languages.es]
+        title = "Web sobre Markdown"
+        weight = 1
+        languageName = "Español"
+    [Languages.en]
+        title = "Web about Markdown"
+        weight = 2
+        languageName = "English"
+   [Languages.fr]
+        title = "Web sur Markdown"
+        weight = 3
+        languageName = "Français"

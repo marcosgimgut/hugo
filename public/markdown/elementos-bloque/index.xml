@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elementos de bloque on Web sobre Markdown</title>
+    <link>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-bloque/index.html</link>
+    <description>Recent content in Elementos de bloque on Web sobre Markdown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 26 Oct 2023 20:03:38 +0200</lastBuildDate>
+    <atom:link href="http://marcosgimgut.github.io/hugo_practica/markdown/elementos-bloque/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Citas</title>
+      <link>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-bloque/citas/index.html</link>
+      <pubDate>Thu, 26 Oct 2023 20:01:40 +0200</pubDate>
+      <guid>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-bloque/citas/index.html</guid>
+      <description>Las citas son bloques de texto que se utilizan para resaltar una parte del texto. En markdonw, las citas se pueden crear con el caracter &amp;gt;:
+Su sintáxis es: &amp;gt; Esto es una cita.¿Cómo se ve? Esto es una cita.</description>
+    </item>
+    <item>
+      <title>Códigos de bloque</title>
+      <link>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-bloque/codigos-bloque/index.html</link>
+      <pubDate>Thu, 26 Oct 2023 20:01:40 +0200</pubDate>
+      <guid>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-bloque/codigos-bloque/index.html</guid>
+      <description>Los códigos de bloque son fragmentos de código o texto preformateado que se muestran en un bloque de texto separado del resto del texto.
+Su sintáxis es def hola_mundo(): print(&amp;#39;Hola mundo!&amp;#39;)¿Cómo se ve? def hola_mundo(): print(&amp;#39;Hola mundo!</description>
+    </item>
+    <item>
+      <title>Encabezados</title>
+      <link>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-bloque/encabezados/index.html</link>
+      <pubDate>Thu, 26 Oct 2023 20:01:40 +0200</pubDate>
+      <guid>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-bloque/encabezados/index.html</guid>
+      <description>Los encabezados son elementos de bloque que se utilizan para definir títulos y subtítulos. Se pueden utilizar seis niveles de encabezados, siendo el nivel 1 el más importante y el nivel 6 el menos importante.
+¿Cómo se utilizan? Para crear un encabezado se utiliza el símbolo # seguido de un espacio y el texto del encabezado. El número de # indica el nivel del encabezado.
+Su sintaxis # Encabezado de nivel 1 ## Encabezado de nivel 2 ### Encabezado de nivel 3 #### Encabezado de nivel 4 ##### Encabezado de nivel 5 ###### Encabezado de nivel 6¿Cómo se ven?</description>
+    </item>
+    <item>
+      <title>Listas</title>
+      <link>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-bloque/listas/index.html</link>
+      <pubDate>Thu, 26 Oct 2023 20:01:40 +0200</pubDate>
+      <guid>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-bloque/listas/index.html</guid>
+      <description>Las listas no ordenadas se pueden hacer con asteriscos, signos menos o signos más:
+Su sintáxis es: Con asteriscos: * Item 1 * Item 1.1 * Item 2 * Item 3Con signos menos: - Item 1 - Item 1.1 - Item 2 - Item 3Con signos más: + Item 1 + Item 1.1 + Item 2 + Item 3¿Cómo se ven? Con asteriscos: Item 1 Item 1.1 Item 2 Item 3 Con signos menos: Item 1 Item 1.</description>
+    </item>
+    <item>
+      <title>Parrafos y saltos de línea</title>
+      <link>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-bloque/parrafos/index.html</link>
+      <pubDate>Thu, 26 Oct 2023 20:01:40 +0200</pubDate>
+      <guid>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-bloque/parrafos/index.html</guid>
+      <description>Los párrafos en Markdown son simplemente una o más líneas de texto consecutivas seguidas de una o más líneas en blanco.
+Su sintáxis es Esto es un párrafo.¿Cómo se ve? Esto es un párrafo.</description>
+    </item>
+    <item>
+      <title>Reglas horizontales</title>
+      <link>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-bloque/reglas-horizontales/index.html</link>
+      <pubDate>Thu, 26 Oct 2023 20:01:40 +0200</pubDate>
+      <guid>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-bloque/reglas-horizontales/index.html</guid>
+      <description>Las reglas horizontales se utilizan para separar secciones de un documento. Para crear una regla horizontal se utilizan tres o más guiones bajos, asteriscos o guiones medios. Los espacios en blanco entre los caracteres no son obligatorios.
+Su sintáxis es: --- *** ___¿Cómo se ve? </description>
+    </item>
+  </channel>
+</rss>

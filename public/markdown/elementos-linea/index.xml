@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elementos de línea on Web sobre Markdown</title>
+    <link>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-linea/index.html</link>
+    <description>Recent content in Elementos de línea on Web sobre Markdown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 26 Oct 2023 20:03:38 +0200</lastBuildDate>
+    <atom:link href="http://marcosgimgut.github.io/hugo_practica/markdown/elementos-linea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Código</title>
+      <link>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-linea/codigo/index.html</link>
+      <pubDate>Thu, 26 Oct 2023 20:03:38 +0200</pubDate>
+      <guid>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-linea/codigo/index.html</guid>
+      <description>Los códigos en línea son fragmentos de código o texto preformateado que se muestran en el mismo bloque de texto.
+Su sintáxis es `print(&amp;#39;Hola mundo!&amp;#39;)`¿Cómo se ve? print(&#39;Hola mundo!&#39;)</description>
+    </item>
+    <item>
+      <title>Énfasis</title>
+      <link>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-linea/enfasis/index.html</link>
+      <pubDate>Thu, 26 Oct 2023 20:03:38 +0200</pubDate>
+      <guid>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-linea/enfasis/index.html</guid>
+      <description>Los elementos de énfasis son aquellos que sirven para resaltar una parte del texto. Los más comunes son los siguientes: negrita, cursiva y tachado.
+Su sintáxis es: Negrita:
+**Esto es negrita**Cursiva:
+*Esto es cursiva*Tachado:
+~~Esto está tachado~~¿Cómo se ve? Esto es negrita
+Esto es cursiva
+Esto está tachado</description>
+    </item>
+    <item>
+      <title>Imágenes</title>
+      <link>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-linea/imagenes/index.html</link>
+      <pubDate>Thu, 26 Oct 2023 20:03:38 +0200</pubDate>
+      <guid>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-linea/imagenes/index.html</guid>
+      <description>Las imágenes se pueden incluir de dos formas en markdown:
+Su sintáxis: Con signo de exclamación, corchetes y paréntesis:
+![Texto alternativo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)Con signo de exclamación, corchetes y corchetes:
+![Texto alternativo][1] [1]: https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png¿Cómo se ven? Ambas opciones se ven de la siguiente manera:</description>
+    </item>
+    <item>
+      <title>Links o enlaces</title>
+      <link>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-linea/enlaces/index.html</link>
+      <pubDate>Thu, 26 Oct 2023 20:03:38 +0200</pubDate>
+      <guid>http://marcosgimgut.github.io/hugo_practica/markdown/elementos-linea/enlaces/index.html</guid>
+      <description>Los links o enlaces se pueden hacer de dos formas en markdown:
+Su sintáxis En línea:
+[Texto del link](https://www.google.com)Como referencia:
+[Texto del link][1] [1]: https://www.google.com¿Cómo se ven? Ambas opciones se ven de la siguiente manera:
+Texto del link</description>
+    </item>
+  </channel>
+</rss>
